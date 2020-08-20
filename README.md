@@ -22,7 +22,7 @@ The standard treatment option for GBM is
 #### Need: 
 The 5-year survival rate of patients with brain tumours is among the lowest for all cancer types (35%). GB is the most frequent primary brain tumour; however, its incidence is relatively low compared to other types of cancer, ranging between 0.59 and 3.69 cases per 100 000 person-years. Despite advances in the surgical and oncological treatment of GB, prognosis is still poor, with a 5-year survival rate of between 0.05% and 4.7%.
 The standard care are unable to prolong the remission and the investigative treatments introduced over past three decades have only been able to prolong the survival of patients by an average of three months. 
-Further, these standard care put impose financial burden on the patient and the caregivers. Healthcare costs associated with GBM are extremely high. With limited resources and risisng healthcare costs,it is pertinent to evaluate the not only the cost but also the value of the treatment. 
+Further, these standard care put impose financial burden on the patient and the caregivers. Healthcare costs associated with GBM are extremely high. With limited resources and rising healthcare costs,it is pertinent to evaluate the not only the cost but also the value of the treatment. 
 
 #### Vison:
 A predictive tool that considers the patient demographics,geneteic and medical history to evaluate the best treatment option and chances of survival indicating the value of the treatment. 
