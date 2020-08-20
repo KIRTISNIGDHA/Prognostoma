@@ -1,5 +1,5 @@
 # Prognostoma
-A predictive tool that considers the patient demographics,geneteic and medical history to predict the prognosis which can help doctor and patient make an informed descision.
+A predictive tool that considers the patient demographics,genetic and medical history to predict the prognosis which can help doctor and patient make an informed decision.
 #### Context: 
 Glioblastoma multiforme (GBM)is the most common and aggressive form of brain tumor in adults. (52 % of all primary brain tumors) with a poor prognosis of 12-15 months.
 
