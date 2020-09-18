@@ -35,8 +35,8 @@ A predictive tool that considers the patient demographics,genetic and medical hi
 
 ## Installation
 ### Dataset
-The dataset used in this project can be downloaded from [cBioportal](https://www.cbioportal.org). This dataset contains data from diffrent the cancer studies curated from TGCA. For this project I selected the Glioblastoma - Mayo Clinic, 2019 and TCGA, Firehose Legacy dataset. Other datsets for glioblastoma are used simsilar patient information used by these two studies. 
-Clinical and genomics data was obtained separately by selecting the target genes to evalaute. I focused on PTEN, EGFR, TP53 and IDH1 for my analysis as these are the most commonly mutate genes found in Glioblastoma. 
+The dataset used in this project can be downloaded from [cBioportal](https://www.cbioportal.org). This dataset contains data from diffrent cancer studies curated from TGCA. For this project I selected the Glioblastoma - Mayo Clinic, 2019 and TCGA, Firehose Legacy dataset. Other datsets present for glioblastoma used these two studies data primarily. 
+Clinical and genomics data was obtained separately by selecting the target genes to evalaute. I focused on PTEN, EGFR, TP53 and IDH1 for my analysis as these are the most commonly mutated genes found in Glioblastoma. 
 
 ### Requirements
 1. Python 3. 
