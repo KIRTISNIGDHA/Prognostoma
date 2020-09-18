@@ -25,12 +25,12 @@ The standard care are unable to prolong the remission and the investigative trea
 Further, these standard care put impose financial burden on the patient and the caregivers. Healthcare costs associated with GBM are extremely high. With limited resources and rising healthcare costs,it is pertinent to evaluate the not only the cost but also the value of the treatment. 
 
 #### Vison:
-A predictive tool that considers the patient demographics,geneteic and medical history to evaluate the best treatment option and chances of survival indicating the value of the treatment. 
+A predictive tool that considers the patient demographics,genetic and medical history to evaluate the best treatment option and chances of survival indicating the value of the treatment. 
 
 #### Output for Stakeholders: 
 1. Doctors: Helps them to decide the treatment strategy considering multiple factors that affect the success of the treatment and properly advise the patient not simply based on a reasnable guess. Improves doctors efficiency in providing effective treatment and increases the clinical productivity. 
 2. Pharma companies: Companies trying to come up with novel treatment strategy need to evaluate within a value based framework as defined by the ASCO. 
-3. Insurance company : While approving coverage for these techniques like Novocure's Optune, CMS takes into account the efficacy of the treatment to iprove survival of patient while maintaining the quality of life.
+3. Insurance company : While approving coverage for these techniques like Novocure's Optune, CMS takes into account the efficacy of the treatment to improve survival of patient while maintaining the quality of life.
 4. Patient: To make an informed choice about the treatment based on the survival chances, quality of life and insurance coverage.
 
 ## Installation
